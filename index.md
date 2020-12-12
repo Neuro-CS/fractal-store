@@ -1,4 +1,4 @@
-# <i class="fas fa-infinity"></i>Recursive Diversions
+# <i class="fas fa-infinity"></i>
 
 Welcome to my homepage! Below you'll find links to my storefronts, social media accounts, a gallery, and a little about me.
 
@@ -464,7 +464,7 @@ A multi-size _portrait_ component with an image, link, name, and role icon, usef
 {%
   include portrait.html
   link="https://nasa.gov/"
-  image="images/corgi.jpg"
+  image="images/instagram.jpg"
   name="Anne Chovie"
   role="programmer"
 %}
