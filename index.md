@@ -1,26 +1,26 @@
 # <i class="fas fa-infinity"></i>Recursive Diversions
 
-Welcome to my homepage! Below you'll find links to my storefronts, social media accounts, and a little about me.
+Welcome to my homepage! Below you'll find links to my storefronts, social media accounts, a gallery, and a little about me.
+
+<!-- section break -->
 
 ## Merchandise
 
 {%
   include card.html
   size="small"
-  image="images/space.jpg"
+  image="images/network.jpg"
   link="https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3ARecursive+Diversions"
   heading="Amazon Store"
-  truncate=1
   row1="Here you can find clothing (t-shirts, hoodies, and sweatshirts) using my designs with all the convenience of Amazon printing & shipping."
 %}
 
 {%
   include card.html
   size="small"
-  image="images/space.jpg"
+  image="images/polar-graph.jpg"
   link="http://tee.pub/lic/recursivediversions"
   heading="Teepublic"
-  truncate=1
   row1="This site will print on practically anything! You can purchase my designs as wall art, shirts, stickers, pillows, masks, and more."
 %}
 
@@ -46,7 +46,10 @@ A small gallery of recent artwork.
 
 ## Social Media
 
-This is where my social media would go. IF I HAD ANY.
+{%- include social-link.html type="contact" large=true -%}
+{%- include social-link.html type="github" large=true -%}
+{%- include social-link.html type="twitter" large=true -%}
+{%- include social-link.html type="instagram" large=true -%}
 
 <!-- section break -->
 
