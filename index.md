@@ -18,3 +18,12 @@ The research interests of our lab broadly span many areas of computational biolo
     * data structures for building, indexing and querying one or more reference genomes
     * data structures for indexing collections of tens of thousands of raw sequencing experiments
   * Applications of approximate and data-driven representations and data structures in bioinformatics
+
+{% capture html %}
+{%
+  include portrait.html
+  link="members/anne-chovie"
+  image="images/corgi.jpg"
+  name="Anne Chovie"
+  role="programmer"
+%}
