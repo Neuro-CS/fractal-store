@@ -46,7 +46,14 @@ A small gallery of recent artwork.
 
 ## Social Media
 
-{%- include social-link.html type="contact" large=true -%}
+{% capture html %}
+{%
+  include portrait.html
+  link="https://nasa.gov/"
+  image="images/instagram.jpg"
+  name="Instagram"
+%}
+{% endcapture %}
 {%- include social-link.html type="github" large=true -%}
 {%- include social-link.html type="twitter" large=true -%}
 {%- include social-link.html type="instagram" large=true -%}
