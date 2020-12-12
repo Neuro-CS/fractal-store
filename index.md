@@ -49,14 +49,24 @@ A small gallery of recent artwork.
 {% capture html %}
 {%
   include portrait.html
-  link="https://nasa.gov/"
+  link="https://www.instagram.com/possiblyfractal/"
   image="images/instagram.jpg"
   name="Instagram"
 %}
+{%
+  include portrait.html
+  image="images/labrador.jpg"
+  name="Felix Cited"
+  role="pi"
+  mini=true
+%}
+{%
+  include portrait.html
+  mini=true
+%}
 {% endcapture %}
-{%- include social-link.html type="github" large=true -%}
-{%- include social-link.html type="twitter" large=true -%}
-{%- include social-link.html type="instagram" large=true -%}
+
+{% include centerer.html html=html %}
 
 <!-- section break -->
 
