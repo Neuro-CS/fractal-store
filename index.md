@@ -1,9 +1,52 @@
-# <i class="fas fa-infinity"></i>Main
+# <i class="fas fa-infinity"></i>Recursive Diversions
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Welcome to my homepage! Below you'll find links to my storefronts, social media accounts, and a little about me.
 
-{% include big-link.html icon="fab fa-github" text="See the template and readme on GitHub" link="https://github.com/greenelab/lab-website-template" %}{:.center}
+## Merchandise
+
+{%
+  include card.html
+  size="small"
+  image="images/space.jpg"
+  link="https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3ARecursive+Diversions"
+  heading="Amazon Store"
+  truncate=1
+  row1="Here you can find clothing (t-shirts, hoodies, and sweatshirts) using my designs with all the convenience of Amazon printing & shipping."
+%}
+
+{%
+  include card.html
+  size="small"
+  image="images/space.jpg"
+  link="http://tee.pub/lic/recursivediversions"
+  heading="Teepublic"
+  truncate=1
+  row1="This site will print on practically anything! You can purchase my designs as wall art, shirts, stickers, pillows, masks, and more."
+%}
+
+<!-- section break -->
+
+## Gallery
+
+A small gallery of recent artwork.
+
+{%
+  include gallery.html
+  image1="images/cell.jpg"
+  tooltip1="Fractal 1"
+  image2="images/virus.jpg"
+  tooltip2="Fractal 2"
+  image3="images/cell.jpg"
+  tooltip3="Fractal 3"
+  image4="images/virus.jpg"
+  image5="images/bacteria.jpg"
+%}
+
+<!-- section break -->
+
+## Social Media
+
+This is where my social media would go. IF I HAD ANY.
 
 <!-- section break -->
 
