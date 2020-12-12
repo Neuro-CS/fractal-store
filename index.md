@@ -27,3 +27,4 @@ The research interests of our lab broadly span many areas of computational biolo
   name="Anne Chovie"
   role="programmer"
 %}
+{% endcapture %}
