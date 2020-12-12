@@ -408,7 +408,7 @@ A multi-size _portrait_ component with an image, link, name, and role icon, usef
 {% capture html %}
 {%
   include portrait.html
-  link="members/anne-chovie"
+  link="https://nasa.gov/"
   image="images/corgi.jpg"
   name="Anne Chovie"
   role="programmer"
