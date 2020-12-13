@@ -1,6 +1,6 @@
 # <i class="fas fa-infinity"></i>
 
-Welcome to my homepage! I'm an abstract artist specializing in fractals designed by Apophysis 7X and Mandelbulb 3D. Below you'll find links to my storefronts, social media accounts, and a gallery.
+Welcome to my homepage! I'm an abstract artist specializing in fractals designed by Apophysis 7X and Mandelbulb 3D. Below you'll find links to my storefronts, social media accounts, and a gallery. I'm slowly adding my art to these storefronts, so be sure to check back!
 
 <!-- section break -->
 
@@ -32,8 +32,8 @@ A small gallery of recent artwork.
 
 {%
   include gallery.html
-  image1="images/polar-vortex.jpg"
-  tooltip1="Polar Vortex"
+  image1="images/distortion.jpg"
+  tooltip1="Distortion"
   image2="images/infinite-wave.jpg"
   tooltip2="Infinite Wave"
   image3="images/outside-the-box.jpg"
@@ -46,6 +46,10 @@ A small gallery of recent artwork.
   tooltip6="Transcend"
   image7="images/pentagram.jpg"
   tooltip7="Pentagram"
+  image8="images/hidden-glynnia.jpg"
+  tooltip8="Hidden Glynnia"
+  image9="images/rainbow-exerain.jpg"
+  tooltip9="Exerain"
 
 
 %}
