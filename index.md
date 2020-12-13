@@ -32,14 +32,22 @@ A small gallery of recent artwork.
 
 {%
   include gallery.html
-  image1="images/cell.jpg"
-  tooltip1="Fractal 1"
-  image2="images/virus.jpg"
-  tooltip2="Fractal 2"
-  image3="images/cell.jpg"
-  tooltip3="Fractal 3"
-  image4="images/virus.jpg"
-  image5="images/bacteria.jpg"
+  image1="images/polar-vortex.jpg"
+  tooltip1="Polar Vortex"
+  image2="images/infinite-wave.jpg"
+  tooltip2="Infinite Wave"
+  image3="images/outside-the-box.jpg"
+  tooltip3="Outside the Box"
+  image4="images/identity.jpg"
+  tooltip4="Identity"
+  image5="images/transport.jpg"
+  tooltip5="Transport"
+  image6="images/transcend.jpg"
+  tooltip6="Transcend"
+  image7="images/pentagram.jpg"
+  tooltip7="Pentagram"
+
+
 %}
 
 <!-- section break -->
