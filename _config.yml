@@ -25,7 +25,7 @@ defaults:
       path: ""
     values:
       description: A homepage for fractal artwork and merchandise designed by PossiblyFractal # description that will show under search engine results
-      background: images/omega.jpg # background image in header and footer
+      background: images/sunfactory.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
   - scope:
