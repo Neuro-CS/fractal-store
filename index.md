@@ -52,16 +52,20 @@ A small gallery of recent artwork.
   link="https://www.instagram.com/possiblyfractal/"
   image="images/instagram.jpg"
   name="Instagram"
-%}
-{%
-  include portrait.html
-  image="images/labrador.jpg"
-  name="Felix Cited"
-  role="pi"
   mini=true
 %}
 {%
   include portrait.html
+  link="https://twitter.com/neuro_cam"
+  image="images/twitter.jpg"
+  name="Twitter"
+  mini=true
+%}
+{%
+  include portrait.html
+  link="https://github.com/Neuro-CS"
+  image="images/github.jpg"
+  name="GitHub"
   mini=true
 %}
 {% endcapture %}
