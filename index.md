@@ -1,6 +1,6 @@
 # <i class="fas fa-infinity"></i>
 
-Welcome to my homepage! Below you'll find links to my storefronts, social media accounts, a gallery, and a little about me.
+Welcome to my homepage! I'm an abstract artist specializing in fractals designed by Apophysis 7X and Mandelbulb 3D. Below you'll find links to my storefronts, social media accounts, and a gallery.
 
 <!-- section break -->
 
