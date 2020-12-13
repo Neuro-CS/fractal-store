@@ -9,7 +9,7 @@ Welcome to my homepage! I'm an abstract artist specializing in fractals designed
 {%
   include card.html
   size="small"
-  image="images/network.jpg"
+  image="images/amazon.jpg"
   link="https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3ARecursive+Diversions"
   heading="Amazon Store"
   row1="Here you can find clothing (t-shirts, hoodies, and sweatshirts) using my designs with all the convenience of Amazon printing & shipping."
@@ -18,7 +18,7 @@ Welcome to my homepage! I'm an abstract artist specializing in fractals designed
 {%
   include card.html
   size="small"
-  image="images/polar-graph.jpg"
+  image="images/teepublic.jpg"
   link="http://tee.pub/lic/recursivediversions"
   heading="Teepublic"
   row1="This site will print on practically anything! You can purchase my designs as wall art, shirts, stickers, pillows, masks, and more."
