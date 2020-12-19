@@ -18,10 +18,19 @@ Welcome to my homepage! I'm an abstract artist specializing in fractals designed
 {%
   include card.html
   size="small"
+  image="images/redbubble.jpg"
+  link="http://tee.pub/lic/recursivediversions"
+  heading="Redbubble"
+  row1="This site will print on practically anything! You can purchase my designs as wall art, shirts, shower curtains (why would you want that), posters, pillows, and more!"
+%}
+
+{%
+  include card.html
+  size="small"
   image="images/teepublic.jpg"
   link="http://tee.pub/lic/recursivediversions"
   heading="Teepublic"
-  row1="This site will print on practically anything! You can purchase my designs as wall art, shirts, stickers, pillows, masks, and more."
+  row1="Another print on demand service which allows you to purchase my artwork as shirts, hoodies, and posters. Since the upload time is very fast, you'll be able to find my newest designs here."
 %}
 
 <!-- section break -->
