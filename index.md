@@ -1,6 +1,6 @@
 # <i class="fas fa-infinity"></i>
 
-Welcome to my homepage! I'm an abstract artist specializing in fractals designed by Apophysis 7X and Mandelbulb 3D. Below you'll find links to my storefronts, social media accounts, and a gallery. I'm slowly adding my art to these storefronts, so be sure to check back!
+Welcome to my homepage! I'm a US-based abstract artist specializing in fractals designed by Apophysis 7X and Mandelbulb 3D. Below you'll find links to my storefronts, social media accounts, and a gallery. I'm slowly adding my art to these storefronts, so be sure to check back!
 
 <!-- section break -->
 
@@ -12,16 +12,16 @@ Welcome to my homepage! I'm an abstract artist specializing in fractals designed
   image="images/amazon.jpg"
   link="https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3ARecursive+Diversions"
   heading="Amazon Store"
-  row1="Here you can find clothing (t-shirts, hoodies, and sweatshirts) using my designs with all the convenience of Amazon printing & shipping."
+  row1="Here you can find clothing (t-shirts, hoodies, and sweatshirts) using my designs with all the convenience of Amazon printing & shipping. This will have the smallest selection but best prices."
 %}
 
 {%
   include card.html
   size="small"
   image="images/redbubble.jpg"
-  link="https://www.redbubble.com/people/RecursiveStore/shop?asc=u"
+  link="https://www.redbubble.com/people/RecursiveStore/explore?asc=u&page=1&sortOrder=top%20selling"
   heading="Redbubble"
-  row1="This site will print on practically anything! You can purchase my designs as wall art, shirts, shower curtains (why would you want that), posters, pillows, and more!"
+  row1="This site will print on practically anything! You can purchase my designs as wall art, shirts, laptop covers, dressed, shower curtains (why would you want that), clocks, posters, pillows, and more!"
 %}
 
 {%
