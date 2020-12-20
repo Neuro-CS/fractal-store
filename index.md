@@ -19,7 +19,7 @@ Welcome to my homepage! I'm an abstract artist specializing in fractals designed
   include card.html
   size="small"
   image="images/redbubble.jpg"
-  link="http://tee.pub/lic/recursivediversions"
+  link="https://www.redbubble.com/people/RecursiveStore/shop?asc=u"
   heading="Redbubble"
   row1="This site will print on practically anything! You can purchase my designs as wall art, shirts, shower curtains (why would you want that), posters, pillows, and more!"
 %}
