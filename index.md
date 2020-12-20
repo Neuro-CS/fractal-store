@@ -21,7 +21,7 @@ Welcome to my homepage! I'm a US-based abstract artist specializing in fractals 
   image="images/redbubble.jpg"
   link="https://www.redbubble.com/people/RecursiveStore/explore?asc=u&page=1&sortOrder=top%20selling"
   heading="Redbubble"
-  row1="This site will print on practically anything! You can purchase my designs as wall art, shirts, laptop covers, dressed, shower curtains (why would you want that), clocks, posters, pillows, and more!"
+  row1="This site will print on practically anything! You can purchase my designs as wall art, shirts, laptop covers, dresses, shower curtains (why would you want that), clocks, posters, pillows, and more!"
 %}
 
 {%
